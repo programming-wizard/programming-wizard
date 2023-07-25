@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JAVA☕
 - 📑 Things_I_have_managed_to_learn_so_far = ["JAVA", "Python", "JavaScript", "C", "C++", "HTML & CSS"]
 - 😃 Favourite/Comfortable language to work with = Things_I_have_managed_to_learn_so_far[0]
+- 🎯 Currently working with python projects, learning WebDev and some random JAVA project development.
 - 📫 ...
 
 <!---
