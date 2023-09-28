@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 My journey began simply with HTML, CSS, and JavaScript, where I quickly discovered my knack for creating interactive web experiences. From there, I explored the realms of C, C++, and Python, java, honing my problem-solving skills and diving into the world of software development.<br><br>👋 I'm a passionate computer science engineering student with a deep love for all things about programming. Since 2020, I've been diving headfirst into the world of coding, building a strong foundation in a variety of languages.</p>
+<p align="left">🚀 My journey began simply with HTML, CSS, and JavaScript, where I quickly discovered my knack for creating interactive web experiences. From there, I explored the realms of C, C++, Python, and java, honing my problem-solving skills and diving into the world of software development.<br><br>👋 I'm a passionate computer science engineering student with a deep love for all things about programming. Since 2020, I've been diving headfirst into the world of coding, building a strong foundation in a variety of languages.</p>
 
 ###
 
