@@ -62,5 +62,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Programming-Wizard&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Wizard&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ###
+
+![Snake animation](https://github.com/{{Programming-Wizard}}/{{Programming-Wizard}}/blob/output/github-contribution-grid-snake.svg)
