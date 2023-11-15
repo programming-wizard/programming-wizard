@@ -63,7 +63,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-Wizard&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Programming-Wizard&icon=1&color=7)](https://visitcount.itsvg.in)
-
 ###
